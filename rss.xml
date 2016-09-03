@@ -4,8 +4,15 @@
         <description><![CDATA[BrandonSmith]]></description>
         <link>https://thegrid.ai/brandonsmith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 14:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 14:34:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brandonsmith/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ted]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58306c18c40e0fd503d000e92c4d5921388e8601.jpg">]]></description>
+            <link>https://thegrid.ai/brandonsmith/2eb39568-84b6-4b2b-9805-0e879f370b49/index.html</link>
+            <guid isPermaLink="false">2eb39568-84b6-4b2b-9805-0e879f370b49</guid>
+            <pubDate>Wed, 31 Aug 2016 14:34:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Networking - All Accessories - Apple]]></title>
             <description><![CDATA[<article><h1>Networking - All Accessories - Apple</h1><p>Buy networking & server accessories for Mac from the Apple Online Store, including routers, adapters, switches, network cards, cables, and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/108d3b55f06d634f3a11982961f5aa8ea36c9372.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/brandonsmith/fb397c99-f49c-4eab-9eca-4b10894f96f8/index.html</link>
             <guid isPermaLink="false">fb397c99-f49c-4eab-9eca-4b10894f96f8</guid>
             <pubDate>Tue, 23 Feb 2016 17:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ted</p>]]></description>
-            <link>https://thegrid.ai/brandonsmith/2eb39568-84b6-4b2b-9805-0e879f370b49/index.html</link>
-            <guid isPermaLink="false">2eb39568-84b6-4b2b-9805-0e879f370b49</guid>
-            <pubDate>Tue, 23 Feb 2016 17:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
